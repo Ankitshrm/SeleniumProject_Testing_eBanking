@@ -1,0 +1,5 @@
+2022-02-09 08:10:21,626 [main] INFO eBanking - Url is working fine
+2022-02-09 08:10:21,909 [main] INFO eBanking - Entered username
+2022-02-09 08:10:22,284 [main] INFO eBanking - Entered password
+2022-02-09 08:10:24,748 [main] INFO eBanking - Button Clicked
+2022-02-09 08:10:24,765 [main] INFO eBanking - Login test passed
